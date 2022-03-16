@@ -14,7 +14,7 @@
     "3": {
       "id": 3,
       "type": "text",
-      "data": "some content vasdasd asdas"
+      "data": "some content vasdasd asdasd"
     }
   },
   "cellsOrder": [

@@ -1,5 +1,5 @@
 {
-  "idCounter": 3,
+  "idCounter": 4,
   "cells": {
     "1": {
       "id": 1,
@@ -10,12 +10,18 @@
       "id": 2,
       "type": "tableauEditor",
       "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"config\":\"Basic propositional\"}\n"
+    },
+    "3": {
+      "id": 3,
+      "type": "text",
+      "data": "some content"
     }
   },
   "cellsOrder": [
     1,
-    2
+    2,
+    3
   ],
   "firstCellId": 1,
-  "lastCellId": 2
+  "lastCellId": 3
 }

@@ -9,7 +9,7 @@
     "2": {
       "id": 2,
       "type": "tableauEditor",
-      "data": null
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"\",\"references\":[]},\"config\":\"Basic propositional\"}\n"
     }
   },
   "cellsOrder": [

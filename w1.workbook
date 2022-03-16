@@ -9,7 +9,7 @@
     "2": {
       "id": 2,
       "type": "tableauEditor",
-      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"\",\"references\":[]},\"config\":\"Basic propositional\"}\n"
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"config\":\"Basic propositional\"}\n"
     }
   },
   "cellsOrder": [

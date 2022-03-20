@@ -18,8 +18,8 @@
     }
   },
   "cellsOrder": [
-    1,
     2,
+    1,
     3
   ],
   "firstCellId": 1,

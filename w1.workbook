@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "some content asdasjkhadskjhas"
+      "data": "some content asdasjkhadskjhasd"
     }
   },
   "cellsOrder": [

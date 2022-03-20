@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "# Headin\n"
+      "data": "# Heading\n"
     },
     "2": {
       "id": 2,

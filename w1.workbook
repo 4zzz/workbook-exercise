@@ -19,9 +19,9 @@
   },
   "cellsOrder": [
     3,
-    2,
-    1
+    1,
+    2
   ],
   "firstCellId": 3,
-  "lastCellId": 1
+  "lastCellId": 2
 }

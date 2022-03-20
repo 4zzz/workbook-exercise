@@ -1,5 +1,5 @@
 {
-  "idCounter": 5,
+  "idCounter": 6,
   "cells": {
     "1": {
       "id": 1,
@@ -10,10 +10,16 @@
       "id": 3,
       "type": "text",
       "data": "some content vasdasd asdasdsad"
+    },
+    "5": {
+      "id": 5,
+      "type": "resolutionEditor",
+      "data": null
     }
   },
   "cellsOrder": [
     1,
+    5,
     3
   ],
   "firstCellId": 1,

@@ -1,7 +1,15 @@
 {
-  "idCounter": 1,
-  "cells": {},
-  "cellsOrder": [],
-  "firstCellId": 0,
-  "lastCellId": 0
+  "idCounter": 2,
+  "cells": {
+    "1": {
+      "id": 1,
+      "type": "text",
+      "data": "some content"
+    }
+  },
+  "cellsOrder": [
+    1
+  ],
+  "firstCellId": 1,
+  "lastCellId": 1
 }

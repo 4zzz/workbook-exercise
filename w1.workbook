@@ -1,5 +1,5 @@
 {
-  "idCounter": 8,
+  "idCounter": 9,
   "cells": {
     "1": {
       "id": 1,
@@ -10,10 +10,16 @@
       "id": 7,
       "type": "resolutionEditor",
       "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}"
+    },
+    "8": {
+      "id": 8,
+      "type": "text",
+      "data": "some content"
     }
   },
   "cellsOrder": [
     1,
+    8,
     7
   ],
   "firstCellId": 1,

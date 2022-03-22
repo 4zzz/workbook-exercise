@@ -1,5 +1,5 @@
 {
-  "idCounter": 9,
+  "idCounter": 10,
   "cells": {
     "1": {
       "id": 1,
@@ -15,10 +15,16 @@
       "id": 8,
       "type": "text",
       "data": "some content"
+    },
+    "9": {
+      "id": 9,
+      "type": "text",
+      "data": "some content"
     }
   },
   "cellsOrder": [
     1,
+    9,
     8,
     7
   ],

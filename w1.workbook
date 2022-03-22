@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "Príklad 1\n-------------\nDokážte, že $T \\vDash_p X$, pričom $T=\\{A_1, ..., A_7\\}$, kde:\n$$\n\\begin{align*}\n&(A_1) \\quad (kino(Fero, Anka) \\lor (pocuva(Fero, PinkFloyd) \\lor hra(Fero, FerovaPS))) \\\\\n&(A_2) \\quad (kapela(PinkFloyd) \\land hraciaKonzola(FerovaPS)) \\\\\n&(A_3) \\quad (\\neg frustrovany(Fero) \\rightarrow kino(Fero, Anka)) \\\\\n&(A_4) \\quad (frustrovany(Fero) \\rightarrow (pocuva(Fero, PinkFloyd) \\lor hra(Fero, FerovaPS))) \\\\\n&(A_5) \\quad (\\neg kino(Fero, Anka) \\land (pocuva(Fero, PinkFloyd) \\land hra(Fero, FerovaPS))) \\\\\n&(A_6) \\quad (hra(Fero, FerovaPS) \\rightarrow pocuva(Fero, PinkFloyd)) \\\\\n&(A_7) \\quad (pocuva(Fero, PinkFloyd) \\rightarrow \\neg frustrovany(Fero)) \\\\\n&(X) \\quad (\\neg hra(Fero, FerovaPS) \\rightarrow kino(Fero, Anka))\n\\end{align*}\n$$\naaaaa"
+      "data": "Príklad 1\n-------------\nDokážte, že $T \\vDash_p X$, pričom $T=\\{A_1, ..., A_7\\}$, kde:\n$$\n\\begin{align*}\n&(A_1) \\quad (kino(Fero, Anka) \\lor (pocuva(Fero, PinkFloyd) \\lor hra(Fero, FerovaPS))) \\\\\n&(A_2) \\quad (kapela(PinkFloyd) \\land hraciaKonzola(FerovaPS)) \\\\\n&(A_3) \\quad (\\neg frustrovany(Fero) \\rightarrow kino(Fero, Anka)) \\\\\n&(A_4) \\quad (frustrovany(Fero) \\rightarrow (pocuva(Fero, PinkFloyd) \\lor hra(Fero, FerovaPS))) \\\\\n&(A_5) \\quad (\\neg kino(Fero, Anka) \\land (pocuva(Fero, PinkFloyd) \\land hra(Fero, FerovaPS))) \\\\\n&(A_6) \\quad (hra(Fero, FerovaPS) \\rightarrow pocuva(Fero, PinkFloyd)) \\\\\n&(A_7) \\quad (pocuva(Fero, PinkFloyd) \\rightarrow \\neg frustrovany(Fero)) \\\\\n&(X) \\quad (\\neg hra(Fero, FerovaPS) \\rightarrow kino(Fero, Anka))\n\\end{align*}\n$$\n"
     },
     "7": {
       "id": 7,

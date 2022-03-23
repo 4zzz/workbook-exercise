@@ -28,5 +28,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 7,
-  "editedCellId": 7
+  "editedCellId": 1
 }

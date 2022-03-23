@@ -1,5 +1,5 @@
 {
-  "idCounter": 13,
+  "idCounter": 14,
   "cells": {
     "1": {
       "id": 1,
@@ -26,10 +26,18 @@
       "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T (frustrovany(Fero) \\\\rightarrow (pocuva(Fero, PinkFloyd) \\\\lor hra(Fero, FerovaPS)))\",\"references\":[]}},\"config\":\"Basic propositional\"}\n",
       "comment": "",
       "isEdited": true
+    },
+    "13": {
+      "id": 13,
+      "type": "structureExplorer",
+      "data": null,
+      "comment": "",
+      "isEdited": false
     }
   },
   "cellsOrder": [
     1,
+    13,
     12,
     11,
     7

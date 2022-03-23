@@ -10,8 +10,8 @@
     "7": {
       "id": 7,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[0],\"allSteps\":[[0,{\"formula\":{\"input\":\"\",\"error\":\"\"},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":\"\"},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":\"\"},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[0,0]],\"id\":1},\"inputChange\":{\"originValue\":\"\"}}",
-      "isEdited": true
+      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":1},\"inputChange\":{\"originValue\":\"\"}}",
+      "isEdited": false
     },
     "11": {
       "id": 11,

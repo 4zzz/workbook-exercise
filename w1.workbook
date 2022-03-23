@@ -1,5 +1,5 @@
 {
-  "idCounter": 12,
+  "idCounter": 13,
   "cells": {
     "1": {
       "id": 1,
@@ -19,10 +19,18 @@
       "data": "some content",
       "comment": "",
       "isEdited": false
+    },
+    "12": {
+      "id": 12,
+      "type": "tableauEditor",
+      "data": null,
+      "comment": "",
+      "isEdited": false
     }
   },
   "cellsOrder": [
     1,
+    12,
     11,
     7
   ],

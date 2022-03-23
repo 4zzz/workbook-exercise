@@ -25,14 +25,14 @@
       "type": "tableauEditor",
       "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T (frustrovany(Fero) \\\\rightarrow (pocuva(Fero, PinkFloyd) \\\\lor hra(Fero, FerovaPS)))\",\"references\":[]}},\"config\":\"Basic propositional\"}\n",
       "comment": "",
-      "isEdited": true
+      "isEdited": false
     },
     "13": {
       "id": 13,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[]}},\"expressions\":{\"formulas\":[{\"value\":\"\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1}],\"terms\":[]},\"diagramCordState\":{}}",
       "comment": "",
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -44,5 +44,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 7,
-  "editedCellId": 12
+  "editedCellId": 13
 }

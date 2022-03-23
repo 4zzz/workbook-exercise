@@ -1,1 +1,17 @@
-{"idCounter":0,"cells":{},"cellsOrder":[],"firstCellId":-1,"lastCellId":-1}
+{
+  "idCounter": 1,
+  "cells": {
+    "0": {
+      "id": 0,
+      "type": "text",
+      "data": "some content",
+      "comment": "",
+      "isEdited": false
+    }
+  },
+  "cellsOrder": [
+    0
+  ],
+  "firstCellId": 0,
+  "lastCellId": 0
+}

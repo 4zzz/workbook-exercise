@@ -1,5 +1,5 @@
 {
-  "idCounter": 1,
+  "idCounter": 2,
   "cells": {
     "0": {
       "id": 0,
@@ -7,11 +7,19 @@
       "data": "some content",
       "comment": "",
       "isEdited": false
+    },
+    "1": {
+      "id": 1,
+      "type": "resolutionEditor",
+      "data": null,
+      "comment": "",
+      "isEdited": false
     }
   },
   "cellsOrder": [
-    0
+    0,
+    1
   ],
   "firstCellId": 0,
-  "lastCellId": 0
+  "lastCellId": 1
 }

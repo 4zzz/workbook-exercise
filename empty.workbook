@@ -1,15 +1,21 @@
 {
-  "idCounter": 4,
+  "idCounter": 5,
   "cells": {
     "2": {
       "id": 2,
       "type": "text",
       "data": "some content"
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "some content"
     }
   },
   "cellsOrder": [
-    2
+    2,
+    4
   ],
   "firstCellId": 2,
-  "lastCellId": 3
+  "lastCellId": 4
 }

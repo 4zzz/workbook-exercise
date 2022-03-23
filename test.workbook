@@ -11,9 +11,9 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": null,
+      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
       "comment": "",
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -21,5 +21,6 @@
     1
   ],
   "firstCellId": 0,
-  "lastCellId": 1
+  "lastCellId": 1,
+  "editedCellId": 1
 }

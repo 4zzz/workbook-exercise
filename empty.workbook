@@ -14,9 +14,9 @@
     "5": {
       "id": 5,
       "type": "structureExplorer",
-      "data": null,
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":264,\"y\":29},\"N1\":{\"x\":569,\"y\":124}}}}",
       "comment": "",
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -25,5 +25,6 @@
     5
   ],
   "firstCellId": 2,
-  "lastCellId": 5
+  "lastCellId": 5,
+  "editedCellId": 5
 }

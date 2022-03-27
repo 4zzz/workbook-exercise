@@ -14,10 +14,10 @@
     }
   },
   "cellsOrder": [
-    4,
-    2
+    2,
+    4
   ],
-  "firstCellId": 4,
-  "lastCellId": 2,
+  "firstCellId": 2,
+  "lastCellId": 4,
   "editedCellId": 4
 }

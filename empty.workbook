@@ -15,7 +15,7 @@
     "9": {
       "id": 9,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":356,\"y\":158}}}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":356,\"y\":158},\"N1\":{\"x\":633,\"y\":113},\"N2\":{\"x\":638,\"y\":326}}}}",
       "comment": "",
       "isEdited": true
     }

@@ -5,12 +5,14 @@
       "id": 0,
       "type": "text",
       "data": "some content",
-      "idCounter": 3,
+      "idCounter": 5,
       "comments": {
         "ids": [
           0,
           1,
-          2
+          2,
+          3,
+          4
         ],
         "entities": {
           "0": {
@@ -30,6 +32,18 @@
             "text": "",
             "date": "2022-03-28T11:35:49.430Z",
             "id": 2
+          },
+          "3": {
+            "author": "",
+            "text": "",
+            "timestamp": 1648469413488,
+            "id": 3
+          },
+          "4": {
+            "author": "",
+            "text": "",
+            "timestamp": 1648469413930,
+            "id": 4
           }
         }
       },

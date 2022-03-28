@@ -1,8 +1,42 @@
 {
-  "idCounter": 1,
+  "idCounter": 2,
   "cells": {
     "0": {
       "id": 0,
+      "type": "text",
+      "data": "some content",
+      "idCounter": 3,
+      "comments": {
+        "ids": [
+          0,
+          1,
+          2
+        ],
+        "entities": {
+          "0": {
+            "author": "",
+            "text": "",
+            "date": "2022-03-28T11:35:46.912Z",
+            "id": 0
+          },
+          "1": {
+            "author": "",
+            "text": "",
+            "date": "2022-03-28T11:35:48.888Z",
+            "id": 1
+          },
+          "2": {
+            "author": "",
+            "text": "",
+            "date": "2022-03-28T11:35:49.430Z",
+            "id": 2
+          }
+        }
+      },
+      "isEdited": false
+    },
+    "1": {
+      "id": 1,
       "type": "text",
       "data": "some content",
       "idCounter": 0,
@@ -14,8 +48,9 @@
     }
   },
   "cellsOrder": [
-    0
+    0,
+    1
   ],
   "firstCellId": 0,
-  "lastCellId": 0
+  "lastCellId": 1
 }

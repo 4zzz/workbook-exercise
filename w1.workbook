@@ -37,7 +37,7 @@
     "14": {
       "id": 14,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":303.1016617790811,\"y\":106.3761546861158},\"N1\":{\"x\":618.8396871945259,\"y\":211.9480021934472},\"N2\":{\"x\":493.71749755620726,\"y\":378.1259103068392}}}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
       "comment": "",
       "isEdited": true
     }

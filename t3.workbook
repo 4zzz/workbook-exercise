@@ -10,18 +10,18 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "1": {
       "id": 1,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":224.47285663948543,\"y\":132.69895907441577},\"N1\":{\"x\":430.97381266242996,\"y\":149.90737207632782}}}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":121.22237862801316,\"y\":146.08328029812515},\"N1\":{\"x\":430.97381266242996,\"y\":149.90737207632782}}}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "2": {
       "id": 2,
@@ -77,5 +77,5 @@
   ],
   "firstCellId": 3,
   "lastCellId": 2,
-  "editedCellId": 0
+  "editedCellId": 1
 }

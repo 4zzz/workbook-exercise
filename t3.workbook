@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "2": {
       "id": 2,
@@ -42,8 +42,7 @@
       "comments": {
         "ids": [
           0,
-          1,
-          2
+          1
         ],
         "entities": {
           "0": {
@@ -57,12 +56,6 @@
             "text": "asdasd",
             "timestamp": 1648651280597,
             "id": 1
-          },
-          "2": {
-            "author": "4zzz",
-            "text": "asdasd",
-            "timestamp": 1648651281756,
-            "id": 2
           }
         }
       },

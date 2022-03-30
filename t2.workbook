@@ -25,10 +25,19 @@
       "id": 1,
       "type": "text",
       "data": "some content",
-      "idCounter": 0,
+      "idCounter": 1,
       "comments": {
-        "ids": [],
-        "entities": {}
+        "ids": [
+          0
+        ],
+        "entities": {
+          "0": {
+            "author": "4zzz",
+            "text": "**Komentár**",
+            "timestamp": 1648647965503,
+            "id": 0
+          }
+        }
       },
       "isEdited": false
     },
@@ -51,5 +60,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 2,
-  "editedCellId": 0
+  "editedCellId": 1
 }

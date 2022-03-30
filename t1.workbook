@@ -1,11 +1,11 @@
 {
-  "idCounter": 4,
+  "idCounter": 5,
   "cells": {
     "0": {
       "id": 0,
       "type": "text",
       "data": "some content",
-      "idCounter": 10,
+      "idCounter": 12,
       "comments": {
         "ids": [
           0,
@@ -17,7 +17,9 @@
           6,
           7,
           8,
-          9
+          9,
+          10,
+          11
         ],
         "entities": {
           "0": {
@@ -79,6 +81,18 @@
             "text": "",
             "timestamp": 1648637067779,
             "id": 9
+          },
+          "10": {
+            "author": "",
+            "text": "",
+            "timestamp": 1648637430657,
+            "id": 10
+          },
+          "11": {
+            "author": "",
+            "text": "",
+            "timestamp": 1648637431357,
+            "id": 11
           }
         }
       },
@@ -105,10 +119,22 @@
         "entities": {}
       },
       "isEdited": false
+    },
+    "4": {
+      "id": 4,
+      "type": "text",
+      "data": "some content",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
+    4,
     3,
     1
   ],

@@ -4,13 +4,13 @@
     "0": {
       "id": 0,
       "type": "resolutionEditor",
-      "data": null,
+      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "1": {
       "id": 1,
@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
@@ -38,10 +38,33 @@
       "id": 3,
       "type": "text",
       "data": "some content",
-      "idCounter": 0,
+      "idCounter": 3,
       "comments": {
-        "ids": [],
-        "entities": {}
+        "ids": [
+          0,
+          1,
+          2
+        ],
+        "entities": {
+          "0": {
+            "author": "4zzz",
+            "text": "koment=ar **asdf**",
+            "timestamp": 1648651256552,
+            "id": 0
+          },
+          "1": {
+            "author": "4zzz",
+            "text": "asdasd",
+            "timestamp": 1648651280597,
+            "id": 1
+          },
+          "2": {
+            "author": "4zzz",
+            "text": "asdasd",
+            "timestamp": 1648651281756,
+            "id": 2
+          }
+        }
       },
       "isEdited": false
     }
@@ -54,5 +77,5 @@
   ],
   "firstCellId": 3,
   "lastCellId": 2,
-  "editedCellId": 1
+  "editedCellId": 0
 }

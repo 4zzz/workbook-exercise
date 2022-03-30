@@ -77,5 +77,5 @@
   ],
   "firstCellId": 3,
   "lastCellId": 2,
-  "editedCellId": 0
+  "editedCellId": 1
 }

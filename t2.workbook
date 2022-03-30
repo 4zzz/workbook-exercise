@@ -50,5 +50,6 @@
     2
   ],
   "firstCellId": 0,
-  "lastCellId": 2
+  "lastCellId": 2,
+  "editedCellId": 0
 }

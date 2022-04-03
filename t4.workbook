@@ -11,22 +11,10 @@
         "entities": {}
       },
       "isEdited": true
-    },
-    "6": {
-      "id": 6,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
-    1,
-    6
+    1
   ],
   "firstCellId": 1,
   "lastCellId": 2,

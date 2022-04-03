@@ -1,7 +1,21 @@
 {
-  "idCounter": 13,
-  "cells": {},
-  "cellsOrder": [],
-  "firstCellId": 12,
-  "lastCellId": 12
+  "idCounter": 14,
+  "cells": {
+    "13": {
+      "id": 13,
+      "type": "text",
+      "data": "some content",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
+    }
+  },
+  "cellsOrder": [
+    13
+  ],
+  "firstCellId": 13,
+  "lastCellId": 13
 }

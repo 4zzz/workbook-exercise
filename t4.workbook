@@ -23,17 +23,6 @@
       },
       "isEdited": false
     },
-    "15": {
-      "id": 15,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "16": {
       "id": 16,
       "type": "text",
@@ -49,10 +38,8 @@
   "cellsOrder": [
     13,
     14,
-    16,
-    15
+    16
   ],
   "firstCellId": 13,
-  "lastCellId": 15,
-  "editedCellId": 15
+  "lastCellId": 15
 }

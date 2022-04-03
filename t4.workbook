@@ -22,23 +22,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "9": {
-      "id": 9,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     1,
-    6,
-    9
+    6
   ],
   "firstCellId": 1,
   "lastCellId": 2,

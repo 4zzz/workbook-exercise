@@ -23,17 +23,6 @@
       },
       "isEdited": false
     },
-    "8": {
-      "id": 8,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "9": {
       "id": 9,
       "type": "tableauEditor",
@@ -49,8 +38,7 @@
   "cellsOrder": [
     1,
     6,
-    9,
-    8
+    9
   ],
   "firstCellId": 1,
   "lastCellId": 2,

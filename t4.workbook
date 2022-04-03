@@ -53,5 +53,6 @@
     15
   ],
   "firstCellId": 13,
-  "lastCellId": 15
+  "lastCellId": 15,
+  "editedCellId": 15
 }

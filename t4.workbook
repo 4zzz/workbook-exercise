@@ -11,22 +11,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "18": {
-      "id": 18,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
-    13,
-    18
+    13
   ],
   "firstCellId": 13,
   "lastCellId": 18

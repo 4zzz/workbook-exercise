@@ -22,23 +22,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "16": {
-      "id": 16,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     13,
-    14,
-    16
+    14
   ],
   "firstCellId": 13,
   "lastCellId": 17

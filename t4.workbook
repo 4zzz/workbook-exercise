@@ -1,22 +1,7 @@
 {
   "idCounter": 10,
-  "cells": {
-    "1": {
-      "id": 1,
-      "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"a\",\"object\":[\"a\"],\"error\":\"\",\"symbols\":[\"a\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":2},\"inputChange\":{\"originValue\":\"\"}}",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
-    }
-  },
-  "cellsOrder": [
-    1
-  ],
+  "cells": {},
+  "cellsOrder": [],
   "firstCellId": 1,
-  "lastCellId": 2,
-  "editedCellId": 1
+  "lastCellId": 2
 }

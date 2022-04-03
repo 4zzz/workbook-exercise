@@ -1,21 +1,7 @@
 {
   "idCounter": 12,
-  "cells": {
-    "11": {
-      "id": 11,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    }
-  },
-  "cellsOrder": [
-    11
-  ],
+  "cells": {},
+  "cellsOrder": [],
   "firstCellId": 11,
   "lastCellId": 11
 }

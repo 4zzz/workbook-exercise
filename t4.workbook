@@ -12,17 +12,6 @@
       },
       "isEdited": true
     },
-    "2": {
-      "id": 2,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "3": {
       "id": 3,
       "type": "resolutionEditor",
@@ -109,8 +98,7 @@
     7,
     5,
     4,
-    3,
-    2
+    3
   ],
   "firstCellId": 1,
   "lastCellId": 2,

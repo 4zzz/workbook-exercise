@@ -23,17 +23,6 @@
       },
       "isEdited": false
     },
-    "7": {
-      "id": 7,
-      "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "8": {
       "id": 8,
       "type": "resolutionEditor",
@@ -61,8 +50,7 @@
     1,
     6,
     9,
-    8,
-    7
+    8
   ],
   "firstCellId": 1,
   "lastCellId": 2,

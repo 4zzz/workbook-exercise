@@ -26,7 +26,7 @@
     "23": {
       "id": 23,
       "type": "tableauEditor",
-      "data": null,
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"\",\"references\":[]},\"config\":\"Basic propositional\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

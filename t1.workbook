@@ -1,5 +1,5 @@
 {
-  "idCounter": 4,
+  "idCounter": 5,
   "cells": {
     "0": {
       "id": 0,
@@ -44,12 +44,24 @@
         "entities": {}
       },
       "isEdited": false
+    },
+    "4": {
+      "id": 4,
+      "type": "structureExplorer",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
     2,
     1,
+    4,
     3
   ],
   "firstCellId": 0,

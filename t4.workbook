@@ -32,7 +32,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -42,5 +42,5 @@
   ],
   "firstCellId": 20,
   "lastCellId": 22,
-  "editedCellId": 23
+  "editedCellId": 20
 }

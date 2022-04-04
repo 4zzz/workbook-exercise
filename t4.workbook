@@ -22,22 +22,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "24": {
-      "id": 24,
-      "type": "tableauEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     20,
-    24,
     22
   ],
   "firstCellId": 20,

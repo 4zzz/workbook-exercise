@@ -4,7 +4,7 @@
     "20": {
       "id": 20,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n\nkk",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -29,5 +29,6 @@
     22
   ],
   "firstCellId": 20,
-  "lastCellId": 22
+  "lastCellId": 22,
+  "editedCellId": 20
 }

@@ -15,7 +15,7 @@
     "5": {
       "id": 5,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n------------------\n\n$x^2$",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -29,5 +29,6 @@
     5
   ],
   "firstCellId": 0,
-  "lastCellId": 5
+  "lastCellId": 5,
+  "editedCellId": 5
 }

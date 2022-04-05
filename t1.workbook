@@ -12,17 +12,6 @@
       },
       "isEdited": false
     },
-    "1": {
-      "id": 1,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "2": {
       "id": 2,
       "type": "text",
@@ -49,7 +38,6 @@
   "cellsOrder": [
     0,
     2,
-    1,
     3
   ],
   "firstCellId": 0,

@@ -15,7 +15,7 @@
     "1": {
       "id": 1,
       "type": "tableauEditor",
-      "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T (kapela(PinkFloyd)∧hraciaKonzola(FerovaPS))\",\"references\":[]}},\"config\":\"Basic propositional\"}\n",
+      "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"T (kino(Fero,Anka)∨(pocuva(Fero,PinkFloyd)∨hra(Fero,FerovaPS)))\",\"references\":[]},\"child\":{\"type\":\"assumption\",\"node\":{\"id\":2,\"value\":\"T (kapela(PinkFloyd)∧hraciaKonzola(FerovaPS))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":3,\"value\":\"T (¬frustrovany(Fero)→kino(Fero,Anka))\",\"references\":[]}}},\"config\":\"Basic propositional\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

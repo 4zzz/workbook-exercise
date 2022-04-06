@@ -58,10 +58,10 @@
   "cellsOrder": [
     0,
     3,
-    1,
-    2
+    2,
+    1
   ],
   "firstCellId": 0,
-  "lastCellId": 2,
+  "lastCellId": 1,
   "editedCellId": 3
 }

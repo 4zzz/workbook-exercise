@@ -52,16 +52,16 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [
-    0,
     2,
+    0,
     3,
     1
   ],
-  "firstCellId": 0,
+  "firstCellId": 2,
   "lastCellId": 1,
   "editedCellId": 3
 }

@@ -8,8 +8,7 @@
       "idCounter": 2,
       "comments": {
         "ids": [
-          0,
-          1
+          0
         ],
         "entities": {
           "0": {
@@ -17,12 +16,6 @@
             "text": "** Komentár **",
             "timestamp": 1649192120663,
             "id": 0
-          },
-          "1": {
-            "author": "4zzz",
-            "text": "test",
-            "timestamp": 1649255433312,
-            "id": 1
           }
         }
       },

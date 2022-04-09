@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -29,5 +29,6 @@
     1
   ],
   "firstCellId": 0,
-  "lastCellId": 1
+  "lastCellId": 1,
+  "editedCellId": 1
 }

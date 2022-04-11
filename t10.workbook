@@ -42,5 +42,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 6,
-  "editedCellId": 0
+  "editedCellId": 6
 }

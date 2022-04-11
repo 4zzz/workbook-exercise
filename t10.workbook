@@ -22,25 +22,12 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "4": {
-      "id": 4,
-      "type": "text",
-      "data": "Bez ujmy na vseobecnosti mozeme predpokladat ze plati ... $\\begin{proof} \\end{proof} $",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    1,
-    4
+    1
   ],
   "firstCellId": 0,
-  "lastCellId": 4,
-  "editedCellId": 4
+  "lastCellId": 4
 }

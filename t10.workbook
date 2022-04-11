@@ -26,13 +26,13 @@
     "4": {
       "id": 4,
       "type": "text",
-      "data": "some content",
+      "data": "Bez ujmy na vseobecnosti mozeme predpokladat ze plati ... $\\begin{proof} \\end{proof} $",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [

@@ -1,5 +1,5 @@
 {
-  "idCounter": 3,
+  "idCounter": 4,
   "cells": {
     "0": {
       "id": 0,
@@ -21,12 +21,23 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
       "type": "text",
       "data": "some content",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      },
+      "isEdited": true
+    },
+    "3": {
+      "id": 3,
+      "type": "structureExplorer",
+      "data": null,
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -38,9 +49,10 @@
   "cellsOrder": [
     0,
     1,
-    2
+    2,
+    3
   ],
   "firstCellId": 0,
-  "lastCellId": 2,
-  "editedCellId": 1
+  "lastCellId": 3,
+  "editedCellId": 2
 }

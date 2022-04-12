@@ -37,7 +37,7 @@
     "3": {
       "id": 3,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\"]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{\"domainNodes\":{\"N0\":{\"x\":{\"x\":29.781598157446023,\"y\":252.58551153101862}}}}}",
       "idCounter": 0,
       "comments": {
         "ids": [],

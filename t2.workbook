@@ -1,22 +1,7 @@
 {
   "idCounter": 1,
-  "cells": {
-    "0": {
-      "id": 0,
-      "type": "tableauEditor",
-      "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"asd\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"\",\"references\":[]}},\"config\":\"Basic propositional\"}\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
-    }
-  },
-  "cellsOrder": [
-    0
-  ],
+  "cells": {},
+  "cellsOrder": [],
   "firstCellId": 0,
-  "lastCellId": 0,
-  "editedCellId": 0
+  "lastCellId": 0
 }

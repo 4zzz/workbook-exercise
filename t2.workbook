@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "tableauEditor",
-      "data": null,
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"T alex(x)\",\"references\":[]},\"config\":\"Basic propositional\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -17,5 +17,6 @@
     1
   ],
   "firstCellId": 1,
-  "lastCellId": 1
+  "lastCellId": 1,
+  "editedCellId": 1
 }

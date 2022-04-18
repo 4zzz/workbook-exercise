@@ -4,18 +4,19 @@
     "0": {
       "id": 0,
       "type": "tableauEditor",
-      "data": null,
+      "data": "{\"type\":\"assumption\",\"node\":{\"id\":1,\"value\":\"asd\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"\",\"references\":[]}},\"config\":\"Basic propositional\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
     0
   ],
   "firstCellId": 0,
-  "lastCellId": 0
+  "lastCellId": 0,
+  "editedCellId": 0
 }

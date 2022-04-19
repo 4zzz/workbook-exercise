@@ -1,22 +1,7 @@
 {
   "idCounter": 2,
-  "cells": {
-    "1": {
-      "id": 1,
-      "type": "tableauEditor",
-      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"T alex(x)\",\"references\":[]},\"config\":\"Basic propositional\"}\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    }
-  },
-  "cellsOrder": [
-    1
-  ],
+  "cells": {},
+  "cellsOrder": [],
   "firstCellId": 1,
-  "lastCellId": 1,
-  "editedCellId": 1
+  "lastCellId": 1
 }

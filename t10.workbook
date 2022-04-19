@@ -25,10 +25,10 @@
     }
   },
   "cellsOrder": [
-    0,
-    1
+    1,
+    0
   ],
-  "firstCellId": 0,
-  "lastCellId": 6,
+  "firstCellId": 1,
+  "lastCellId": 0,
   "editedCellId": 0
 }

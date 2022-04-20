@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "4": {
       "id": 4,
@@ -42,5 +42,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 4,
-  "editedCellId": 1
+  "editedCellId": 0
 }

@@ -47,12 +47,12 @@
     }
   },
   "cellsOrder": [
-    0,
     1,
+    0,
     2,
     3
   ],
-  "firstCellId": 0,
+  "firstCellId": 1,
   "lastCellId": 3,
   "editedCellId": 0
 }

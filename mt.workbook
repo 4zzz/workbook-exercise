@@ -49,10 +49,10 @@
   "cellsOrder": [
     0,
     2,
-    3,
-    1
+    1,
+    3
   ],
   "firstCellId": 0,
-  "lastCellId": 1,
+  "lastCellId": 3,
   "editedCellId": 0
 }

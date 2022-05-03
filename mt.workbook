@@ -37,13 +37,13 @@
     "3": {
       "id": 3,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"C0, C1\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"C0\",\"C1\"]},\"predicates\":{\"value\":\"p(x), d/1\",\"locked\":false,\"errorMessage\":\"Expected end of input or predicate identifier/non-negative arity but \\\"p\\\" found.\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"C0\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]},\"C1\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]}},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2, N3, N4, N5, N6, N7, N8, N9\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\",\"N3\",\"N4\",\"N5\",\"N6\",\"N7\",\"N8\",\"N9\"]}},\"expressions\":{\"formulas\":[{\"value\":\"p (x)\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false},{\"value\":\"d(x_\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"C0, C1\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"C0\",\"C1\"]},\"predicates\":{\"value\":\"p(x), d/1\",\"locked\":false,\"errorMessage\":\"Expected end of input or predicate identifier/non-negative arity but \\\"p\\\" found.\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"C0\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]},\"C1\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]}},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2, N3, N4, N5, N6, N7, N8, N9\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\",\"N3\",\"N4\",\"N5\",\"N6\",\"N7\",\"N8\",\"N9\"]}},\"expressions\":{\"formulas\":[{\"value\":\"p (x)\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false},{\"value\":\"d(x)\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "5": {
       "id": 5,
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 5,
-  "editedCellId": 1
+  "editedCellId": 3
 }

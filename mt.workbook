@@ -4,13 +4,13 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "some content\n$$\n\\newcommand\\mymacro[0]{\\LaTeX}\n\\mymacro\n$$\ni am typing something\n\nok, now it should be good\n\nand more and more\n$$\n\\mymacro\n$$",
+      "data": "some content\n$$\n\\newcommand\\mymacro[0]{\\LaTeX}\n\\mymacro\n$$\ni am typing something\nasdf\nok, now it should be good\n\nand more and more\n$$\n\\mymacro\n$$",
       "idCounter": 1,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "1": {
       "id": 1,
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 5,
-  "editedCellId": 2
+  "editedCellId": 0
 }

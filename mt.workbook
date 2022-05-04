@@ -12,17 +12,6 @@
       },
       "isEdited": false
     },
-    "1": {
-      "id": 1,
-      "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"asdf\",\"object\":[\"asdf\"],\"error\":\"\",\"symbols\":[\"asdf\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":5},\"inputChange\":{\"originValue\":\"\"}}",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "2": {
       "id": 2,
       "type": "text",
@@ -58,13 +47,11 @@
     }
   },
   "cellsOrder": [
-    1,
     0,
     2,
     3,
     5
   ],
   "firstCellId": 1,
-  "lastCellId": 5,
-  "editedCellId": 1
+  "lastCellId": 5
 }

@@ -4,7 +4,7 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "some content\n$$\n\\newcommand\\mymacro[0]{\\LaTeX}\n\\mymacro\n$$\nasdf asdf asdf asdf \n$$\n\\mymacro\n$$\n",
+      "data": "",
       "idCounter": 1,
       "comments": {
         "ids": [],

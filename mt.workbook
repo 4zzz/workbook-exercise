@@ -15,13 +15,13 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[3,4],\"allSteps\":[[3,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}],[4,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[3,0],[4,1]],\"id\":5},\"inputChange\":{\"originValue\":\"\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[3],\"allSteps\":[[3,{\"formula\":{\"input\":\"\",\"error\":{\"message\":\"Expected \\\"(\\\", empty clause symbol, negation symbol, or predicate symbol but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"empty clause symbol\"},{\"type\":\"other\",\"description\":\"negation symbol\"},{\"type\":\"other\",\"description\":\"predicate symbol\"},{\"type\":\"literal\",\"text\":\"(\",\"ignoreCase\":false}],\"found\":null,\"location\":{\"start\":{\"offset\":0,\"line\":1,\"column\":1},\"end\":{\"offset\":0,\"line\":1,\"column\":1}},\"name\":\"SyntaxError\"}},\"rule\":\"Assumption\",\"reference1\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"renaming\":{\"input\":\"\",\"error\":\"\"},\"reference2\":{\"input\":\"\",\"error\":{\"name\":\"EmptyError\",\"message\":\"This field cannot be empty\"}},\"unifier\":{\"input\":\"\",\"error\":\"\"},\"valid\":false}]],\"rank\":[[3,0]],\"id\":5},\"inputChange\":{\"originValue\":\"\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "2": {
       "id": 2,
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 5,
-  "editedCellId": 0
+  "editedCellId": 1
 }

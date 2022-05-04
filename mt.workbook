@@ -43,7 +43,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "8": {
       "id": 8,

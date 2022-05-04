@@ -4,7 +4,7 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n$$\n\\newcommand\\mymacro[0]{\\LaTeX}\n\\mymacro\n$$",
       "idCounter": 1,
       "comments": {
         "ids": [],
@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 5,
-  "editedCellId": 1
+  "editedCellId": 0
 }

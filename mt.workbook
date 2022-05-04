@@ -26,13 +26,13 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "",
+      "data": "a",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "3": {
       "id": 3,
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 1,
   "lastCellId": 5,
-  "editedCellId": 0
+  "editedCellId": 2
 }

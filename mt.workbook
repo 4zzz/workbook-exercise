@@ -65,18 +65,18 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "14": {
       "id": 14,
       "type": "text",
-      "data": "some content",
+      "data": "some content\nOk, IS IT that slow",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -90,5 +90,5 @@
   ],
   "firstCellId": 13,
   "lastCellId": 3,
-  "editedCellId": 13
+  "editedCellId": 14
 }

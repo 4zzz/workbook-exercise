@@ -4,7 +4,7 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "$$\n\\forall \n$$",
+      "data": "$$\n\\forall kniha \\forall knihomol\n$$",
       "idCounter": 0,
       "comments": {
         "ids": [],

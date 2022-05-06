@@ -70,7 +70,7 @@
     "12": {
       "id": 12,
       "type": "tableauEditor",
-      "data": "{\"type\":\"alpha\",\"node\":{\"id\":1,\"value\":\"F P\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T ¬ P(x)\",\"references\":[\"1\"]}},\"config\":\"Basic FOL\"}\n",
+      "data": "{\"type\":\"alpha\",\"node\":{\"id\":1,\"value\":\"F P\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T (-P)\",\"references\":[\"1\"]}},\"config\":\"Basic FOL\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "$$\n  \\forall x \n$$",
+      "data": "$$\n  \\forall x: knihomol(x) ->\n$$",
       "idCounter": 0,
       "comments": {
         "ids": [],

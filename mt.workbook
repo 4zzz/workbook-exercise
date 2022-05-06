@@ -66,17 +66,6 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "12": {
-      "id": 12,
-      "type": "tableauEditor",
-      "data": "{\"type\":\"alpha\",\"node\":{\"id\":1,\"value\":\"F ¬(a(x) \\\\/ b(x))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"T (a(x) \\\\/ b(x))\",\"references\":[\"1\"]}},\"config\":\"Basic propositional\"}\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -85,10 +74,8 @@
     0,
     2,
     3,
-    5,
-    12
+    5
   ],
   "firstCellId": 8,
-  "lastCellId": 12,
-  "editedCellId": 12
+  "lastCellId": 12
 }

@@ -4,13 +4,13 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "1. $\\forall x \\forall y : (knihomol(x) \\land narocny(x) \\land spokojny(x)) \\leftrightarrow (kniha(y) \\land chce(x, y) \\land vlastni(x, y)) $\n2. $ \\forall x \\forall y : (knihomol(x) \\land snobsky(x)) \\leftrightarrow (spokojny(x) \\rightarrow (chce\\_knihu(y) \\land ma_kn )) $",
+      "data": "1. $\\forall x \\forall y : (knihomol(x) \\land narocny(x) \\land spokojny(x)) \\leftrightarrow (kniha(y) \\land chce(x, y) \\land vlastni(x, y)) $\n2. $ \\forall x \\forall y : (knihomol(x) \\land snobsky(x)) \\leftrightarrow (spokojny(x) \\rightarrow (chce\\_knihu(y) \\land ma_knihu(y) )) $",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [

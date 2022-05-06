@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "*\n*$\n  \\forall x \\forall y: \\textsf{knihomol(x)} \\rightarrow \n  (\\textsf{ma\\_knihu(y)} \\rightarrow \\mathsf{precital(y)})\n$",
+      "data": "\n1. $\n  \\forall x \\forall y: \\textsf{knihomol(x)} \\rightarrow \n  (\\textsf{ma\\_knihu(y)} \\rightarrow \\mathsf{precital(y)})\n$",
       "idCounter": 0,
       "comments": {
         "ids": [],

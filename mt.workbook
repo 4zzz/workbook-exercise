@@ -85,10 +85,10 @@
     14,
     10,
     0,
-    2,
-    3
+    3,
+    2
   ],
   "firstCellId": 13,
-  "lastCellId": 3,
+  "lastCellId": 2,
   "editedCellId": 3
 }

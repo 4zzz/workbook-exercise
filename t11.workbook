@@ -4,7 +4,7 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "$$\n\\forall x \\forall y : knihomol(x) \\land spokojny(x) \\leftrightar\n$$",
+      "data": "$$\n\\forall x \\forall y : knihomol(x) \\land spokojny(x) \\leftrightarrow \n$$",
       "idCounter": 0,
       "comments": {
         "ids": [],

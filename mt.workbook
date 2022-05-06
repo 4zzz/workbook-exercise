@@ -70,7 +70,7 @@
     "12": {
       "id": 12,
       "type": "tableauEditor",
-      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"F \\\\forall x (K(x) \\\\/ G(x))\",\"references\":[]},\"config\":\"Full FOL\"}\n",
+      "data": "{\"type\":\"alpha\",\"node\":{\"id\":1,\"value\":\"F \\\\forall x (K(x) \\\\/ G(x))\",\"references\":[]},\"child\":{\"type\":\"open\",\"node\":{\"id\":2,\"value\":\"\",\"references\":[]}},\"config\":\"Full FOL\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

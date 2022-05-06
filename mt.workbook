@@ -70,7 +70,7 @@
     "12": {
       "id": 12,
       "type": "tableauEditor",
-      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"F (\\\\forall x (P(x) v R(x))\",\"references\":[]},\"config\":\"Full FOL\"}\n",
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"F (\\\\forall x (P(x) v R(x)))\",\"references\":[]},\"config\":\"Full FOL\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

@@ -73,10 +73,10 @@
     10,
     0,
     2,
-    3,
-    13
+    13,
+    3
   ],
   "firstCellId": 8,
-  "lastCellId": 13,
+  "lastCellId": 3,
   "editedCellId": 13
 }

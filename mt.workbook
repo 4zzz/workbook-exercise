@@ -34,17 +34,6 @@
       },
       "isEdited": false
     },
-    "5": {
-      "id": 5,
-      "type": "tableauEditor",
-      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"T p(x)\",\"references\":[]},\"config\":\"Basic propositional\"}\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "8": {
       "id": 8,
       "type": "resolutionEditor",
@@ -73,9 +62,9 @@
     10,
     0,
     2,
-    3,
-    5
+    3
   ],
   "firstCellId": 8,
-  "lastCellId": 12
+  "lastCellId": 12,
+  "editedCellId": 2
 }

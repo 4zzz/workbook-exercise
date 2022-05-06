@@ -4,7 +4,7 @@
     "0": {
       "id": 0,
       "type": "text",
-      "data": "\nssss\n1. $ \\forall x \\forall y : (narocny\\_knihomol(x)) \\leftrightarrow (kniha(y) \\land chce(x, y) \\land vlastni(x, y)) $\n2. $ \\forall x \\forall y : snobsky\\_knihomol(x) \\leftrightarrow (spokojny(x) \\rightarrow (chce\\_knihu(y) \\land ma\\_knihu(y) )) $\n\n\n",
+      "data": "\nsssskk\n1. $ \\forall x \\forall y : (narocny\\_knihomol(x)) \\leftrightarrow (kniha(y) \\land chce(x, y) \\land vlastni(x, y)) $\n2. $ \\forall x \\forall y : snobsky\\_knihomol(x) \\leftrightarrow (spokojny(x) \\rightarrow (chce\\_knihu(y) \\land ma\\_knihu(y) )) $\n\n\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

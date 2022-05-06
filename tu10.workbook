@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "1. $\\forall x \\forall y: \\textsf{knihomol(x)} \\rightarrow (\\textsf{ma\\_knihu(y)} \\rightarrow \\mathsf{precital(y)})$\n2. $\\forall x \\forall y: (\\textsf{knihomol(x)} \\land \\textsf{skromny(x)} ) \\leftrightarrow  $\n3. ",
+      "data": "1. $\\forall x \\forall y: \\textsf{knihomol(x)} \\rightarrow (\\textsf{ma\\_knihu(y)} \\rightarrow \\mathsf{precital(y)})$\n2. $\\forall x \\forall y: (\\textsf{knihomol(x)} \\land \\textsf{skromny(x)} ) \\leftrightarrow obchod(y) $\n3. ",
       "idCounter": 0,
       "comments": {
         "ids": [],

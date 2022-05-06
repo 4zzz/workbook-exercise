@@ -59,7 +59,7 @@
     "13": {
       "id": 13,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"Dunčo\",\"object\":[\"Dunčo\"],\"error\":\"\",\"symbols\":[\"Dunčo\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"šteká/1, pes/1, \",\"object\":[[\"šteká\",1],[\"pes\",1]],\"error\":{\"message\":\"Expected predicate identifier/non-negative arity but end of input found.\",\"expected\":[{\"type\":\"other\",\"description\":\"predicate identifier/non-negative arity\"}],\"found\":null,\"location\":{\"start\":{\"offset\":16,\"line\":1,\"column\":17},\"end\":{\"offset\":16,\"line\":1,\"column\":17}},\"name\":\"SyntaxError\"},\"symbols\":[{\"name\":\"šteká\",\"arity\":1},{\"name\":\"pes\",\"arity\":1}]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":2},\"inputChange\":{\"originValue\":\"šteká/1, \"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"Dunčo\",\"object\":[\"Dunčo\"],\"error\":\"\",\"symbols\":[\"Dunčo\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"šteká/1, pes/1, hryzie\",\"object\":[[\"šteká\",1],[\"pes\",1]],\"error\":{\"message\":\"Expected predicate identifier/non-negative arity but \\\"h\\\" found.\",\"expected\":[{\"type\":\"other\",\"description\":\"predicate identifier/non-negative arity\"}],\"found\":\"h\",\"location\":{\"start\":{\"offset\":16,\"line\":1,\"column\":17},\"end\":{\"offset\":17,\"line\":1,\"column\":18}},\"name\":\"SyntaxError\"},\"symbols\":[{\"name\":\"šteká\",\"arity\":1},{\"name\":\"pes\",\"arity\":1}]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":2},\"inputChange\":{\"originValue\":\"šteká/1, \"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],

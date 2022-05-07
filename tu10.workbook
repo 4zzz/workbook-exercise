@@ -169,13 +169,13 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "some content",
+      "data": "1. $",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -198,5 +198,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 14
+  "editedCellId": 26
 }

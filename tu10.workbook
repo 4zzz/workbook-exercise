@@ -169,7 +169,7 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y z$",
+      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y \\forall z : skromny_knihomol(x)$",
       "idCounter": 0,
       "comments": {
         "ids": [],

@@ -169,7 +169,7 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y \\forall z_1 \\forall z_2 : skromny\\_knihomol(x) \\leftrightarrow (kupil(x, y, z_1) \\rightarrow \\neg kupil(x, y, z_2) ) ) $\n3. $ \\forall x : narocny_knihomol(x) \\leftrightarrow $",
+      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y \\forall z_1 \\forall z_2 : skromny\\_knihomol(x) \\leftrightarrow (kupil(x, y, z_1) \\rightarrow \\neg kupil(x, y, z_2) ) ) $\n3. $ \\forall x : narocny_knihomol(x) \\leftrightarrow $\n4. \\",
       "idCounter": 0,
       "comments": {
         "ids": [],

@@ -169,7 +169,7 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y \\forall z_1 \\forall z_2 : skromny\\_knihomol(x) \\leftrightarrow (kupil(x, y, z_1) \\rightarrow \\neg kupil(x, y, z_2) ) ) $\n3. $ \\forall x \\forall y : narocny\\_knihomol(x) \\leftrightarrow ( \\neg (chce\\_knihu(x, y) \\land ma\\_knihu(x, y)) \\rightarrow \\neg spokojny(x)) $\n4. $ \\forall x : snobsky\\_knihomol(x) \\leftrightarrow (spokojny(x) \\leftrightarrow ) $\n\n\n\n\n\n",
+      "data": "1. $ \\forall x \\forall y : knihomol(x) \\leftrightarrow (ma\\_knihu(y) \\rightarrow precital(x, y)) $\n2. $ \\forall x \\forall y \\forall z_1 \\forall z_2 : skromny\\_knihomol(x) \\leftrightarrow (kupil(x, y, z_1) \\rightarrow \\neg kupil(x, y, z_2) ) ) $\n3. $ \\forall x \\forall y : narocny\\_knihomol(x) \\leftrightarrow ( \\neg (chce\\_knihu(x, y) \\land ma\\_knihu(x, y)) \\rightarrow \\neg spokojny(x)) $\n4. $ \\forall x : snobsky\\_knihomol(x) \\leftrightarrow (spokojny(x) \\leftrightarrow ((chce\\_knihu(x, y) \\land ma\\_knihu(x, y))) $\n\n\n\n\n\n",
       "idCounter": 0,
       "comments": {
         "ids": [],

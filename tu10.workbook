@@ -165,17 +165,6 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "22": {
-      "id": 22,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
@@ -186,7 +175,6 @@
     16,
     4,
     3,
-    22,
     6,
     5,
     11,

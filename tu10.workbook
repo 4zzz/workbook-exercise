@@ -169,7 +169,7 @@
     "26": {
       "id": 26,
       "type": "text",
-      "data": "1. $ knihomol(x) \\rightleftarrow  $",
+      "data": "1. $ knihomol(x) \\leftrightarrow  $",
       "idCounter": 0,
       "comments": {
         "ids": [],

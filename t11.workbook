@@ -10,7 +10,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "1": {
       "id": 1,
@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "2": {
       "id": 2,
@@ -42,5 +42,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 2,
-  "editedCellId": 1
+  "editedCellId": 0
 }

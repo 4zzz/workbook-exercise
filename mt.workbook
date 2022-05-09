@@ -70,13 +70,13 @@
     "15": {
       "id": 15,
       "type": "text",
-      "data": "some content",
+      "data": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -90,5 +90,5 @@
   ],
   "firstCellId": 13,
   "lastCellId": 2,
-  "editedCellId": 13
+  "editedCellId": 15
 }

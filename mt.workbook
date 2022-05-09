@@ -70,7 +70,7 @@
     "15": {
       "id": 15,
       "type": "text",
-      "data": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n\n$$\n\\text{asdf}\n$$",
+      "data": "A paragraph with *emphasis* and **strong importance**.\n\n> A block quote with ~strikethrough~ and a URL: https://reactjs.org.\n\n* Lists\n* [ ] todo\n* [x] done\n\nA table:\n\n| a | b |\n| - | - |\n\n$$\n\\text{\\~asdf\\~}\n$$",
       "idCounter": 0,
       "comments": {
         "ids": [],

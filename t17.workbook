@@ -22,23 +22,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "4": {
-      "id": 4,
-      "type": "resolutionEditor",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    1,
-    4
+    1
   ],
   "firstCellId": 0,
   "lastCellId": 4,

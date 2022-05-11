@@ -15,13 +15,13 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": null,
+      "data": "{\"language\":{\"consts\":{\"input\":\"asdf\",\"object\":[\"asdf\"],\"error\":\"\",\"symbols\":[\"asdf\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -29,5 +29,6 @@
     1
   ],
   "firstCellId": 0,
-  "lastCellId": 1
+  "lastCellId": 1,
+  "editedCellId": 1
 }

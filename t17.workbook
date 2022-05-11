@@ -15,13 +15,13 @@
     "1": {
       "id": 1,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"asdf\",\"object\":[\"asdf\"],\"error\":\"\",\"symbols\":[\"asdf\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"asdf\",\"object\":[\"asdf\"],\"error\":\"\",\"symbols\":[\"asdf\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"asdf\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [

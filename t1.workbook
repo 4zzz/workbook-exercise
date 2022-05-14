@@ -43,18 +43,18 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "6": {
       "id": 6,
       "type": "text",
-      "data": "some content",
+      "data": "Čo sa týka LaTeXu tak malo by fungovať vkladanie inline $\\forall x: P(x)$ alebo blokovo $$\\forall x: P(x)$$\n\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -66,5 +66,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 6,
-  "editedCellId": 5
+  "editedCellId": 6
 }

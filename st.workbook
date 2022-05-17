@@ -7,17 +7,8 @@
       "data": "some content",
       "idCounter": 3,
       "comments": {
-        "ids": [
-          2
-        ],
-        "entities": {
-          "2": {
-            "author": "4zzz",
-            "text": "",
-            "timestamp": 1652809381463,
-            "id": 2
-          }
-        }
+        "ids": [],
+        "entities": {}
       },
       "isEdited": false
     },

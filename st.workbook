@@ -46,10 +46,10 @@
   },
   "cellsOrder": [
     0,
-    2,
-    3
+    3,
+    2
   ],
   "firstCellId": 0,
-  "lastCellId": 3,
+  "lastCellId": 2,
   "editedCellId": 2
 }

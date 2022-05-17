@@ -46,13 +46,13 @@
     "4": {
       "id": 4,
       "type": "resolutionEditor",
-      "data": "{\"language\":{\"consts\":{\"input\":\"c1, c\",\"object\":[\"c1\",\"c\"],\"error\":\"\",\"symbols\":[\"c1\",\"c\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
+      "data": "{\"language\":{\"consts\":{\"input\":\"c1, c2\",\"object\":[\"c1\",\"c2\"],\"error\":\"\",\"symbols\":[\"c1\",\"c2\"]},\"funs\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]},\"preds\":{\"input\":\"\",\"object\":[],\"error\":\"\",\"symbols\":[]}},\"steps\":{\"order\":[],\"allSteps\":[],\"rank\":[],\"id\":0},\"inputChange\":{\"originValue\":\"\"}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     }
   },
   "cellsOrder": [

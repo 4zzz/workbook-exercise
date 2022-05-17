@@ -30,12 +30,12 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "3": {
       "id": 3,
       "type": "text",
-      "data": "some content",
+      "data": "some content1\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -50,5 +50,6 @@
     2
   ],
   "firstCellId": 0,
-  "lastCellId": 2
+  "lastCellId": 2,
+  "editedCellId": 2
 }

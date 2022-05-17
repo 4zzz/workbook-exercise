@@ -21,17 +21,6 @@
       },
       "isEdited": false
     },
-    "2": {
-      "id": 2,
-      "type": "text",
-      "data": "some content2\n\nupdate\n\nanother update",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "4": {
       "id": 4,
       "type": "resolutionEditor",
@@ -46,10 +35,8 @@
   },
   "cellsOrder": [
     0,
-    2,
     4
   ],
   "firstCellId": 0,
-  "lastCellId": 4,
-  "editedCellId": 2
+  "lastCellId": 4
 }

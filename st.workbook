@@ -42,23 +42,11 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "6": {
-      "id": 6,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
     5,
-    6,
     4
   ],
   "firstCellId": 0,

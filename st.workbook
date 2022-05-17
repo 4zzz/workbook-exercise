@@ -32,17 +32,6 @@
       },
       "isEdited": false
     },
-    "3": {
-      "id": 3,
-      "type": "text",
-      "data": "some content1\n",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
-    },
     "4": {
       "id": 4,
       "type": "resolutionEditor",
@@ -57,7 +46,6 @@
   },
   "cellsOrder": [
     0,
-    3,
     2,
     4
   ],

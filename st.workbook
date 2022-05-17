@@ -46,9 +46,9 @@
   },
   "cellsOrder": [
     0,
-    3,
-    2
+    2,
+    3
   ],
   "firstCellId": 0,
-  "lastCellId": 2
+  "lastCellId": 3
 }

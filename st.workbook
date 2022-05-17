@@ -24,7 +24,7 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "some content2\n\nupdate",
+      "data": "some content2\n\nupdate\n\nanother update",
       "idCounter": 0,
       "comments": {
         "ids": [],

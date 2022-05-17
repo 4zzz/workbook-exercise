@@ -5,10 +5,19 @@
       "id": 0,
       "type": "text",
       "data": "some content",
-      "idCounter": 3,
+      "idCounter": 4,
       "comments": {
-        "ids": [],
-        "entities": {}
+        "ids": [
+          3
+        ],
+        "entities": {
+          "3": {
+            "author": "4zzz",
+            "text": "<zx<zx",
+            "timestamp": 1652809384495,
+            "id": 3
+          }
+        }
       },
       "isEdited": false
     },

@@ -56,12 +56,12 @@
     }
   },
   "cellsOrder": [
-    2,
     0,
+    2,
     3,
     4
   ],
-  "firstCellId": 2,
+  "firstCellId": 0,
   "lastCellId": 4,
   "editedCellId": 2
 }

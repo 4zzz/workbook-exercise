@@ -10,7 +10,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "1": {
       "id": 1,
@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "2": {
       "id": 2,
@@ -44,27 +44,15 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "4": {
-      "id": 4,
-      "type": "text",
-      "data": "some content",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
     1,
     2,
-    3,
-    4
+    3
   ],
   "firstCellId": 0,
   "lastCellId": 4,
-  "editedCellId": 0
+  "editedCellId": 1
 }

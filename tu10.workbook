@@ -187,22 +187,10 @@
         "entities": {}
       },
       "isEdited": false
-    },
-    "28": {
-      "id": 28,
-      "type": "text",
-      "data": "Zmeny sa priebežne automaticky ukladajú",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      },
-      "isEdited": false
     }
   },
   "cellsOrder": [
     0,
-    28,
     10,
     1,
     2,
@@ -221,6 +209,5 @@
     14
   ],
   "firstCellId": 0,
-  "lastCellId": 14,
-  "editedCellId": 28
+  "lastCellId": 14
 }

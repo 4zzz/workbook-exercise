@@ -26,13 +26,13 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "Zmeny sa priebežne automaticky ukladajú\nasdf\nasdf",
+      "data": "Zmeny sa priebežne automaticky ukladajú\n\nasdf\n\nasdf",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "3": {
       "id": 3,

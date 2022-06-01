@@ -26,7 +26,7 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "some content",
+      "data": "some content\n\nasd",
       "idCounter": 0,
       "comments": {
         "ids": [],
@@ -54,5 +54,5 @@
   ],
   "firstCellId": 2,
   "lastCellId": 3,
-  "editedCellId": 0
+  "editedCellId": 2
 }

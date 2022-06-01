@@ -92,7 +92,7 @@
     "10": {
       "id": 10,
       "type": "text",
-      "data": "## O pracovnom hárkull",
+      "data": "## O pracovnom hárku",
       "idCounter": 0,
       "comments": {
         "ids": [],

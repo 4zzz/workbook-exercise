@@ -191,13 +191,13 @@
     "28": {
       "id": 28,
       "type": "text",
-      "data": "some content",
+      "data": "Zmeny sa priebežne automaticky ukladajú",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -222,5 +222,5 @@
   ],
   "firstCellId": 0,
   "lastCellId": 14,
-  "editedCellId": 0
+  "editedCellId": 28
 }

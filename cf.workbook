@@ -26,13 +26,13 @@
     "2": {
       "id": 2,
       "type": "text",
-      "data": "some content\n\nasd",
+      "data": "Zmeny sa priebežne aut",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "3": {
       "id": 3,

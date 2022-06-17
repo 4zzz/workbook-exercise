@@ -29,17 +29,8 @@
       "data": "Zmeny sa priebežne automaticky ukladajú\n\nasdf\n\nasdf",
       "idCounter": 1,
       "comments": {
-        "ids": [
-          0
-        ],
-        "entities": {
-          "0": {
-            "author": "4zzz",
-            "text": "asdf",
-            "timestamp": 1655464890826,
-            "id": 0
-          }
-        }
+        "ids": [],
+        "entities": {}
       },
       "isEdited": true
     },

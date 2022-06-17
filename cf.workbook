@@ -30,8 +30,7 @@
       "idCounter": 3,
       "comments": {
         "ids": [
-          1,
-          2
+          1
         ],
         "entities": {
           "1": {
@@ -39,12 +38,6 @@
             "text": "asdf",
             "timestamp": 1655468761727,
             "id": 1
-          },
-          "2": {
-            "author": "4zzz",
-            "text": "asdf",
-            "timestamp": 1655468763512,
-            "id": 2
           }
         }
       },

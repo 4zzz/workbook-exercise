@@ -15,13 +15,13 @@
     "3": {
       "id": 3,
       "type": "structureExplorer",
-      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"C0, C1, C2, C3\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"C0\",\"C1\",\"C2\",\"C3\"]},\"predicates\":{\"value\":\"d/1, p/3\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[{\"name\":\"d\",\"arity\":1},{\"name\":\"p\",\"arity\":3}]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"C0\":{\"value\":\"N1\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C1\":{\"value\":\"N9\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C2\":{\"value\":\"N7\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C3\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]}},\"predicates\":{\"d/1\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[],\"tableEnabled\":false},\"p/3\":{\"value\":\"(N9, N5, N4)\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[[\"N9\",\"N5\",\"N4\"]],\"tableEnabled\":false}},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2, N3, N4, N5, N6, N7, N8, N9\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\",\"N3\",\"N4\",\"N5\",\"N6\",\"N7\",\"N8\",\"N9\"]}},\"expressions\":{\"formulas\":[{\"value\":\"d(x)\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Hodnota premennej x nie je definovaná. Je voľná, ale nie je v definičnom obore ohodnotenia e.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":{\"name\":\"d\",\"terms\":[{\"name\":\"x\"}]},\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"C0, C1, C2, C3\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"C0\",\"C1\",\"C2\",\"C3\"]},\"predicates\":{\"value\":\"d/1, p/3\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[{\"name\":\"d\",\"arity\":1},{\"name\":\"p\",\"arity\":3}]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":true},\"structure\":{\"constants\":{\"C0\":{\"value\":\"N1\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C1\":{\"value\":\"N9\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C2\":{\"value\":\"N7\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"C3\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Interpretácia konštanty musí byť definovaná\",\"parsed\":[]}},\"predicates\":{\"d/1\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[],\"tableEnabled\":false},\"p/3\":{\"value\":\"(N9, N5, N4)\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[[\"N9\",\"N5\",\"N4\"]],\"tableEnabled\":false}},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"N0, N1, N2, N3, N4, N5, N6, N7, N8, N9\",\"locked\":false,\"errorMessage\":\"Doména nesmie byť prázdna\",\"parsed\":[\"N0\",\"N1\",\"N2\",\"N3\",\"N4\",\"N5\",\"N6\",\"N7\",\"N8\",\"N9\"]}},\"expressions\":{\"formulas\":[{\"value\":\"d(x)\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Hodnota premennej x nie je definovaná. Je voľná, ale nie je v definičnom obore ohodnotenia e.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":{\"name\":\"d\",\"terms\":[{\"name\":\"x\"}]},\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     },
     "8": {
       "id": 8,
@@ -109,7 +109,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "19": {
       "id": 19,
@@ -138,5 +138,5 @@
   ],
   "firstCellId": 13,
   "lastCellId": 16,
-  "editedCellId": 18
+  "editedCellId": 3
 }

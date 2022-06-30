@@ -124,8 +124,8 @@
     }
   },
   "cellsOrder": [
-    13,
     3,
+    13,
     19,
     18,
     8,
@@ -136,7 +136,7 @@
     15,
     16
   ],
-  "firstCellId": 13,
+  "firstCellId": 3,
   "lastCellId": 16,
   "editedCellId": 3
 }

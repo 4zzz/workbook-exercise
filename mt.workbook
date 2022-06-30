@@ -21,7 +21,7 @@
         "ids": [],
         "entities": {}
       },
-      "isEdited": true
+      "isEdited": false
     },
     "8": {
       "id": 8,
@@ -103,13 +103,13 @@
     "18": {
       "id": 18,
       "type": "tableauEditor",
-      "data": null,
+      "data": "{\"type\":\"open\",\"node\":{\"id\":1,\"value\":\"\",\"references\":[]},\"config\":\"Basic propositional\"}\n",
       "idCounter": 0,
       "comments": {
         "ids": [],
         "entities": {}
       },
-      "isEdited": false
+      "isEdited": true
     }
   },
   "cellsOrder": [
@@ -126,5 +126,5 @@
   ],
   "firstCellId": 13,
   "lastCellId": 16,
-  "editedCellId": 3
+  "editedCellId": 18
 }
